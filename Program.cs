@@ -1,5 +1,6 @@
 ﻿using System.Text;
 using System.IO;
+using System
 namespace DinosaurGame
 {
     class Program
